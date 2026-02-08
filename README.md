@@ -6,8 +6,6 @@
 
 A **simple**, **fast**, and **broadcast-style** personal noclip plugin for **Counter-Strike 2** using the **SwiftlyS2** framework.
 
-Perfect for **admin testing**, **map development**, **surf/bhop training**, or **quick position fixes** — just type `!nc` and toggle noclip **only for yourself**.
-
 When toggled, **everyone on the server sees a nice colored announcement** who enabled/disabled it.
 
 ## 🚀 Features
