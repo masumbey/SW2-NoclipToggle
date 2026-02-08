@@ -54,7 +54,7 @@ You can customize or fix any text you don't like:
 ## Installation
 1. Download the latest release.
 2. Extract the folder into `addons/swiftly/plugins/`
-3. Folder structure should look like: addons/swiftly/plugins/NoclipToggleSw/`
+3. Folder structure should look like: `addons/swiftly/plugins/NoclipToggleSw/`
 4. Restart your server or use `sw plugin reload NoclipToggleSw`
 
 ## Author
