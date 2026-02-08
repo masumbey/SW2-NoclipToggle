@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Sunucu Adı] {LightBlue}",
+  "noclip.enable": "{Green}adlı yetkili kendine noclip verdi.",
+  "noclip.disable": "{Red}adlı yetkili kendine noclip'i kapattı.",
+  "noclip.dead": "{Red}Ölüyken noclip komutu kullanamazsın!",
+  "noclip.no_permission": "{Red}Bu komutu kullanma yetkin yok!"
+}

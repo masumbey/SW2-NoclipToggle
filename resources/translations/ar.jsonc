@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[اسم السيرفر] {LightBlue}",
+  "noclip.enable": "{Green}قام بتفعيل وضع الطيران لنفسه.",
+  "noclip.disable": "{Red}قام بإيقاف وضع الطيران لنفسه.",
+  "noclip.dead": "{Red}لا يمكنك استخدام وضع الطيران أثناء الموت!",
+  "noclip.no_permission": "{Red}ليس لديك إذن لاستخدام هذا الأمر!"
+}

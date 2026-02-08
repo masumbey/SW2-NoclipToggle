@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Název serveru] {LightBlue}",
+  "noclip.enable": "{Green}si zapnul no-clip režim.",
+  "noclip.disable": "{Red}si vypnul no-clip režim.",
+  "noclip.dead": "{Red}Nemůžeš používat no-clip, když jsi mrtvý!",
+  "noclip.no_permission": "{Red}Nemáš oprávnění používat tento příkaz!"
+}

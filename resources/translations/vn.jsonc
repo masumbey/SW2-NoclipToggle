@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Tên Máy Chủ] {LightBlue}",
+  "noclip.enable": "{Green}đã bật chế độ no-clip cho bản thân.",
+  "noclip.disable": "{Red}đã tắt chế độ no-clip cho bản thân.",
+  "noclip.dead": "{Red}Không thể sử dụng no-clip khi đang chết!",
+  "noclip.no_permission": "{Red}Không có quyền sử dụng lệnh này!"
+}

@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[서버 이름] {LightBlue}",
+  "noclip.enable": "{Green}님이 자신에게 노클립을 활성화했습니다.",
+  "noclip.disable": "{Red}님이 자신에게 노클립을 비활성화했습니다.",
+  "noclip.dead": "{Red}죽은 상태에서는 노클립을 사용할 수 없습니다!",
+  "noclip.no_permission": "{Red}이 명령어를 사용할 권한이 없습니다!"
+}

@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Όνομα Διακομιστή] {LightBlue}",
+  "noclip.enable": "{Green}ενεργοποίησε το no-clip για τον εαυτό του.",
+  "noclip.disable": "{Red}απενεργοποίησε το no-clip για τον εαυτό του.",
+  "noclip.dead": "{Red}Δεν μπορείς να χρησιμοποιήσεις no-clip ενώ είσαι νεκρός!",
+  "noclip.no_permission": "{Red}Δεν έχεις άδεια να χρησιμοποιήσεις αυτή την εντολή!"
+}

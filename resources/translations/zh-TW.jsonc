@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[伺服器名稱] {LightBlue}",
+  "noclip.enable": "{Green}為自己開啟了穿牆模式。",
+  "noclip.disable": "{Red}為自己關閉了穿牆模式。",
+  "noclip.dead": "{Red}死亡時不能使用穿牆模式！",
+  "noclip.no_permission": "{Red}沒有權限使用此命令！"
+}

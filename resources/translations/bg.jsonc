@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Име на сървъра] {LightBlue}",
+  "noclip.enable": "{Green}включи no-clip за себе си.",
+  "noclip.disable": "{Red}изключи no-clip за себе си.",
+  "noclip.dead": "{Red}Не можеш да използваш no-clip докато си мъртъв!",
+  "noclip.no_permission": "{Red}Нямаш разрешение да използваш тази команда!"
+}

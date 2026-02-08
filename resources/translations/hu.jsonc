@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Szerver Neve] {LightBlue}",
+  "noclip.enable": "{Green}bekapcsolta a no-clip-et magának.",
+  "noclip.disable": "{Red}kikapcsolta a no-clip-et magának.",
+  "noclip.dead": "{Red}Nem használhatod a no-clip-et, ha halott vagy!",
+  "noclip.no_permission": "{Red}Nincs jogosultságod használni ezt a parancsot!"
+}

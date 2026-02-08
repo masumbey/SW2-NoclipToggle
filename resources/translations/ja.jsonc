@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[サーバー名] {LightBlue}",
+  "noclip.enable": "{Green}が自分にノークリップを有効にしました。",
+  "noclip.disable": "{Red}が自分にノークリップを無効にしました。",
+  "noclip.dead": "{Red}死亡中はノークリップを使用できません！",
+  "noclip.no_permission": "{Red}このコマンドを使用する権限がありません！"
+}

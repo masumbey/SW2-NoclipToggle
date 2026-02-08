@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Server Name] {LightBlue}",
+  "noclip.enable": "{Green}hat No-Clip für sich selbst aktiviert.",
+  "noclip.disable": "{Red}hat No-Clip für sich selbst deaktiviert.",
+  "noclip.dead": "{Red}Du kannst No-Clip nicht benutzen, wenn du tot bist!",
+  "noclip.no_permission": "{Red}Keine Berechtigung, diesen Befehl zu verwenden!"
+}

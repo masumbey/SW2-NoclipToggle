@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Palvelimen Nimi] {LightBlue}",
+  "noclip.enable": "{Green}otti no-clip-tilan käyttöön itselleen.",
+  "noclip.disable": "{Red}poisti no-clip-tilan itseltään.",
+  "noclip.dead": "{Red}Et voi käyttää no-clipia kuolleena!",
+  "noclip.no_permission": "{Red}Ei oikeutta käyttää tätä komentoa!"
+}

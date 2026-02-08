@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[ชื่อเซิร์ฟเวอร์] {LightBlue}",
+  "noclip.enable": "{Green}ได้เปิดโหมด no-clip ให้ตัวเอง",
+  "noclip.disable": "{Red}ได้ปิดโหมด no-clip ให้ตัวเอง",
+  "noclip.dead": "{Red}คุณไม่สามารถใช้ no-clip ในขณะที่ตายได้!",
+  "noclip.no_permission": "{Red}ไม่มีสิทธิ์ใช้คำสั่งนี้!"
+}

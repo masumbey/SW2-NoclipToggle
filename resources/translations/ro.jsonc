@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Nume Server] {LightBlue}",
+  "noclip.enable": "{Green}a activat no-clip pentru sine.",
+  "noclip.disable": "{Red}a dezactivat no-clip pentru sine.",
+  "noclip.dead": "{Red}Nu poți folosi no-clip când ești mort!",
+  "noclip.no_permission": "{Red}Nu ai permisiunea de a folosi această comandă!"
+}
