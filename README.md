@@ -49,3 +49,12 @@ You can customize or fix any text you don't like:
   "noclip.dead":          "{Red}You cannot use noclip command while dead!",
   "noclip.no_permission": "{Red}You don't have permission to use this command!"
 }
+
+## Installation
+1. Download the latest release.
+2. Extract the folder into `addons/swiftly/plugins/`
+3. Folder structure should look like: addons/swiftly/plugins/NoclipToggleSw/`
+4. Restart your server or use `sw plugin reload NoclipToggleSw`
+
+## Author
+- masumbey Selim Yaşar (Discord: `selim.yasar79`)
