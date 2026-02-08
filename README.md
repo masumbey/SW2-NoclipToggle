@@ -48,7 +48,8 @@ You can customize or fix any text you don't like:
   "noclip.disable":       "{Red}{name} disabled noclip for themselves.",
   "noclip.dead":          "{Red}You cannot use noclip command while dead!",
   "noclip.no_permission": "{Red}You don't have permission to use this command!"
-}```
+}
+```
 
 ## Installation
 1. Download the latest release.
