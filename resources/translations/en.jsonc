@@ -1,0 +1,7 @@
+{
+  "noclip.prefix": "{Gold}[Server Name] {LightBlue}",
+  "noclip.enable": "{Green}admin named enabled noclip for themselves.",
+  "noclip.disable": "{Red}admin named disabled noclip for themselves.",
+  "noclip.dead": "{Red}You cannot use noclip command while dead!",
+  "noclip.no_permission": "{Red}You don't have permission to use this command!"
+}
